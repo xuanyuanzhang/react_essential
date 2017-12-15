@@ -28,7 +28,6 @@ ReactDOM.render(section, document.getElementById('root'));
 */
 
 // Using JSX syntax we can directly use HTML code.
-/*
 let listOfItems = <ul className="list-of-items">
                     <li className="item-1">Item 1</li>
                     <li className="item-2">Item 2</li>
@@ -37,7 +36,6 @@ let listOfItems = <ul className="list-of-items">
 
 
 ReactDOM.render(listOfItems, document.getElementById('root'));
-*/
 
 
 // ReactDOM.render(<App />, document.getElementById('root'));
